@@ -1,1 +1,23 @@
-/*# sourceMappingURL=style.css.map */
+.navbar .navbar-brand {
+  margin-left: 60px;
+}
+.navbar .navbar-nav li {
+  margin-left: 15px;
+}
+.navbar .d-flex button {
+  border-radius: 20px;
+  font-weight: 400px;
+  width: 125px;
+  height: 45px;
+  margin: 15px 20px;
+}
+
+.container-one .star {
+  position: absolute;
+  margin-left: 450px;
+  padding-top: 25px;
+}
+.container-one h1 {
+  font-weight: 500;
+  font-size: 70px;
+}/*# sourceMappingURL=style.css.map */
