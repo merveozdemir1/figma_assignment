@@ -15,6 +15,14 @@
   margin: 15px 20px;
 }
 
+.div-9 {
+  display: inline-block;
+}
+.div-9 .elips-9 {
+  margin-left: 600px;
+  margin-bottom: 600px;
+}
+
 .container-one .star {
   position: absolute;
   margin-left: 400px;
@@ -53,12 +61,9 @@
   width: 1200px;
   height: 700px;
 }
-.container-one .div-9 {
-  margin-top: 10px;
-}
 
 .container .elips-10 {
-  margin-top: 600px;
+  margin-top: 800px;
   position: absolute;
   width: 25px;
   height: 25px;
